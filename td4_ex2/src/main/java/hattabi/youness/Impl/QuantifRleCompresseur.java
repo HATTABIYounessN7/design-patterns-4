@@ -1,4 +1,4 @@
-package hattabi.youness.Impl;
+package hattabi.youness.impl;
 
 import java.util.Arrays;
 
